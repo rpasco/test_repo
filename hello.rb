@@ -1,1 +1,2 @@
-puts "hello and shit"
+name = "Gary"
+puts "hello, fuck you #{name}"
